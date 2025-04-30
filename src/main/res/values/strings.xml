@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Payroll Management System</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_text">No account? Register</string>
+    <string name="register_button">Register</string>
+    <string name="admin_button">Admin</string>
+    <string name="user_button">User</string>
+    <string name="payroll_title">Payroll Management System</string>
+    <string name="no_records_found">No records found.</string>
+    <string name="back_to_login">Back to Login</string>
+</resources>

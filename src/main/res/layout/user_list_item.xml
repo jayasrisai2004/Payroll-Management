@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/background_color">
+
+    <TextView
+        android:id="@+id/tvEmpId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employee ID"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvDesignation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Designation"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvTotalDays"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Days"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvWorkedDays"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Worked Days"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvSalaryPerDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salary Per Day"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvAllowances"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Allowances"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvDeductions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deductions"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+
+    <TextView
+        android:id="@+id/tvNetSalary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Net Salary"
+        android:textSize="16sp"
+        android:textColor="@color/purple_500" />
+</LinearLayout>
